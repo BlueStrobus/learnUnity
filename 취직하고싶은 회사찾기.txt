@@ -1,0 +1,23 @@
+서커스
+https://www.circuscompany.com/team?code=5
+
+주요 업무
+- circusAR 앱 플랫폼 3D 콘텐츠 개발
+- VR 앱 개발(Vive, Oculus Rift, GearVR, Cardboard, Hololens 등 관련 개발)
+- API 호출 및 연결, 오픈 API 연동
+- 회원 DB 연동, 결재 연동, LBS 관련 콘텐츠 개발
+- Unity 3D를 통한 게임 개발
+
+필요 역량
+- Unity3D 툴 활용 능력
+- UGUI, NGUI 활용 능력
+- C#에 대한 이해도
+- AR (Vuforia) 앱 개발 경험
+- AR, VR, MR, Kinect 등 New Media Contents 개발에 대한 관심
+
+우대사항
+- Computer Graphics 및 Unity Shader 에 대한 기본적인 이해
+- OpenCV 활용 프로젝트 경험
+- Vive , Google Cardboard 등 VR 프로젝트 경험
+- 다양한 Unity Asset 활용 경험
+- AR/VR 콘텐츠, 플랫폼에 대한 흥미
